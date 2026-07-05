@@ -1,0 +1,23 @@
+{
+  "name": "PATITAS",
+  "short_name": "PATITAS",
+  "description": "Tu guía de salud y bienestar para perros y gatos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eafaf6",
+  "theme_color": "#2bb6a3",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
